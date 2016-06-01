@@ -1,0 +1,3 @@
+I did not create any 3D model or texture in this prototype.
+They were created by some of my artist friends for our school project.
+I did however copied the animations within Unity to covert them into write/read instead of read only.

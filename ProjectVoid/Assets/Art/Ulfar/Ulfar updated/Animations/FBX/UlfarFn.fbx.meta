@@ -1,0 +1,2232 @@
+fileFormatVersion: 2
+guid: 81499859499a07a4099ad98989a44b13
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bars
+    100002: Gem
+    100004: Ring
+    100006: Shield1
+    100008: Shield2
+    100010: Shield3
+    100012: Shield4
+    100014: Shield5
+    100016: Shield6
+    100018: Sword1
+    100020: //RootNode
+    100022: UlfarIdleAnim1:ArmArmor
+    100024: UlfarIdleAnim1:be_cloth2_D01
+    100026: UlfarIdleAnim1:be_cloth_D01
+    100028: UlfarIdleAnim1:be_head01
+    100030: UlfarIdleAnim1:be_l_ind_d01
+    100032: UlfarIdleAnim1:be_l_mid_d01
+    100034: UlfarIdleAnim1:be_l_pink_d01
+    100036: UlfarIdleAnim1:be_l_ring_d01
+    100038: UlfarIdleAnim1:be_l_shld01
+    100040: UlfarIdleAnim1:be_l_thumb_d01
+    100042: UlfarIdleAnim1:be_l_toe01
+    100044: UlfarIdleAnim1:be_r_ind_d01
+    100046: UlfarIdleAnim1:be_r_mid_d01
+    100048: UlfarIdleAnim1:be_r_pink_d01
+    100050: UlfarIdleAnim1:be_r_ring_d01
+    100052: UlfarIdleAnim1:be_r_shld01
+    100054: UlfarIdleAnim1:be_r_thumb_d01
+    100056: UlfarIdleAnim1:be_r_toe01
+    100058: UlfarIdleAnim1:be_spE01
+    100060: UlfarIdleAnim1:be_sword_i01
+    100062: UlfarIdleAnim1:Beard
+    100064: UlfarIdleAnim1:belt
+    100066: UlfarIdleAnim1:bn_cloth2_A01
+    100068: UlfarIdleAnim1:bn_cloth2_B01
+    100070: UlfarIdleAnim1:bn_cloth2_C01
+    100072: UlfarIdleAnim1:bn_cloth_A01
+    100074: UlfarIdleAnim1:bn_cloth_B01
+    100076: UlfarIdleAnim1:bn_cloth_C01
+    100078: UlfarIdleAnim1:bn_head01
+    100080: UlfarIdleAnim1:bn_l_arm01
+    100082: UlfarIdleAnim1:bn_l_armTwist_a01
+    100084: UlfarIdleAnim1:bn_l_armTwist_b01
+    100086: UlfarIdleAnim1:bn_l_armTwist_c01
+    100088: UlfarIdleAnim1:bn_l_ball01
+    100090: UlfarIdleAnim1:bn_l_elbow_a01
+    100092: UlfarIdleAnim1:bn_l_elbow_b01
+    100094: UlfarIdleAnim1:bn_l_foot01
+    100096: UlfarIdleAnim1:bn_l_forearmTwist_a01
+    100098: UlfarIdleAnim1:bn_l_forearmTwist_b01
+    100100: UlfarIdleAnim1:bn_l_forearmTwist_c01
+    100102: UlfarIdleAnim1:bn_l_ind_a01
+    100104: UlfarIdleAnim1:bn_l_ind_b01
+    100106: UlfarIdleAnim1:bn_l_ind_c01
+    100108: UlfarIdleAnim1:bn_l_knee_a01
+    100110: UlfarIdleAnim1:bn_l_knee_b01
+    100112: UlfarIdleAnim1:bn_l_mid_a01
+    100114: UlfarIdleAnim1:bn_l_mid_b01
+    100116: UlfarIdleAnim1:bn_l_mid_c01
+    100118: UlfarIdleAnim1:bn_l_pink_a01
+    100120: UlfarIdleAnim1:bn_l_pink_b01
+    100122: UlfarIdleAnim1:bn_l_pink_c01
+    100124: UlfarIdleAnim1:bn_l_ring_a01
+    100126: UlfarIdleAnim1:bn_l_ring_b01
+    100128: UlfarIdleAnim1:bn_l_ring_c01
+    100130: UlfarIdleAnim1:bn_l_shld01
+    100132: UlfarIdleAnim1:bn_l_thigh_01
+    100134: UlfarIdleAnim1:bn_l_thumb_a01
+    100136: UlfarIdleAnim1:bn_l_thumb_b01
+    100138: UlfarIdleAnim1:bn_l_thumb_c01
+    100140: UlfarIdleAnim1:bn_l_wrist01
+    100142: UlfarIdleAnim1:bn_neck01
+    100144: UlfarIdleAnim1:bn_r_arm01
+    100146: UlfarIdleAnim1:bn_r_armTwist_a01
+    100148: UlfarIdleAnim1:bn_r_armTwist_b01
+    100150: UlfarIdleAnim1:bn_r_armTwist_c01
+    100152: UlfarIdleAnim1:bn_r_ball01
+    100154: UlfarIdleAnim1:bn_r_elbow_a01
+    100156: UlfarIdleAnim1:bn_r_elbow_b01
+    100158: UlfarIdleAnim1:bn_r_foot01
+    100160: UlfarIdleAnim1:bn_r_forearmTwist_a01
+    100162: UlfarIdleAnim1:bn_r_forearmTwist_b01
+    100164: UlfarIdleAnim1:bn_r_forearmTwist_c01
+    100166: UlfarIdleAnim1:bn_r_ind_a01
+    100168: UlfarIdleAnim1:bn_r_ind_b01
+    100170: UlfarIdleAnim1:bn_r_ind_c01
+    100172: UlfarIdleAnim1:bn_r_knee_a01
+    100174: UlfarIdleAnim1:bn_r_knee_b01
+    100176: UlfarIdleAnim1:bn_r_mid_a01
+    100178: UlfarIdleAnim1:bn_r_mid_b01
+    100180: UlfarIdleAnim1:bn_r_mid_c01
+    100182: UlfarIdleAnim1:bn_r_pink_a01
+    100184: UlfarIdleAnim1:bn_r_pink_b01
+    100186: UlfarIdleAnim1:bn_r_pink_c01
+    100188: UlfarIdleAnim1:bn_r_ring_a01
+    100190: UlfarIdleAnim1:bn_r_ring_b01
+    100192: UlfarIdleAnim1:bn_r_ring_c01
+    100194: UlfarIdleAnim1:bn_r_shld01
+    100196: UlfarIdleAnim1:bn_r_thigh_01
+    100198: UlfarIdleAnim1:bn_r_thumb_a01
+    100200: UlfarIdleAnim1:bn_r_thumb_b01
+    100202: UlfarIdleAnim1:bn_r_thumb_c01
+    100204: UlfarIdleAnim1:bn_r_wrist01
+    100206: UlfarIdleAnim1:bn_spA01
+    100208: UlfarIdleAnim1:bn_spB01
+    100210: UlfarIdleAnim1:bn_spC01
+    100212: UlfarIdleAnim1:bn_spD01
+    100214: UlfarIdleAnim1:bn_sword_a01
+    100216: UlfarIdleAnim1:bn_sword_b01
+    100218: UlfarIdleAnim1:bn_sword_c01
+    100220: UlfarIdleAnim1:bn_sword_d01
+    100222: UlfarIdleAnim1:bn_sword_e01
+    100224: UlfarIdleAnim1:bn_sword_f01
+    100226: UlfarIdleAnim1:bn_sword_g01
+    100228: UlfarIdleAnim1:bn_sword_h01
+    100230: UlfarIdleAnim1:BODY
+    100232: UlfarIdleAnim1:Body1
+    100234: UlfarIdleAnim1:cc_chest01
+    100236: UlfarIdleAnim1:cc_COG01
+    100238: UlfarIdleAnim1:cc_global01
+    100240: UlfarIdleAnim1:cc_head01
+    100242: UlfarIdleAnim1:cc_hip01
+    100244: UlfarIdleAnim1:cc_l_armPos01
+    100246: UlfarIdleAnim1:cc_l_armTwist01
+    100248: UlfarIdleAnim1:cc_l_ball01
+    100250: UlfarIdleAnim1:cc_l_ball02
+    100252: UlfarIdleAnim1:cc_l_bkLt_footPivot01
+    100254: UlfarIdleAnim1:cc_l_bkRt_footPivot01
+    100256: UlfarIdleAnim1:cc_l_elbow01
+    100258: UlfarIdleAnim1:cc_l_foot01
+    100260: UlfarIdleAnim1:cc_l_forearmTwist01
+    100262: UlfarIdleAnim1:cc_l_ftLt_footPivot01
+    100264: UlfarIdleAnim1:cc_l_ftRt_footPivot01
+    100266: UlfarIdleAnim1:cc_l_heel01
+    100268: UlfarIdleAnim1:cc_l_knee01
+    100270: UlfarIdleAnim1:cc_l_midLt_footPivot01
+    100272: UlfarIdleAnim1:cc_l_midRt_footPivot01
+    100274: UlfarIdleAnim1:cc_l_shld01
+    100276: UlfarIdleAnim1:cc_l_toe01
+    100278: UlfarIdleAnim1:cc_l_wristOri01
+    100280: UlfarIdleAnim1:cc_neck01
+    100282: UlfarIdleAnim1:cc_r_armPos01
+    100284: UlfarIdleAnim1:cc_r_armTwist01
+    100286: UlfarIdleAnim1:cc_r_bkLt_footPivot01
+    100288: UlfarIdleAnim1:cc_r_bkRt_footPivot01
+    100290: UlfarIdleAnim1:cc_r_elbow01
+    100292: UlfarIdleAnim1:cc_r_foot01
+    100294: UlfarIdleAnim1:cc_r_forearmTwist01
+    100296: UlfarIdleAnim1:cc_r_ftLt_footPivot01
+    100298: UlfarIdleAnim1:cc_r_ftRt_footPivot01
+    100300: UlfarIdleAnim1:cc_r_knee01
+    100302: UlfarIdleAnim1:cc_r_midLt_footPivot01
+    100304: UlfarIdleAnim1:cc_r_midRt_footPivot01
+    100306: UlfarIdleAnim1:cc_r_shld01
+    100308: UlfarIdleAnim1:cc_r_toe01
+    100310: UlfarIdleAnim1:cc_r_wristOri01
+    100312: UlfarIdleAnim1:ccl_r_heel01
+    100314: UlfarIdleAnim1:Cloth1
+    100316: UlfarIdleAnim1:Cloth2
+    100318: UlfarIdleAnim1:ControlObjects01
+    100320: UlfarIdleAnim1:GlobalMove01
+    100322: UlfarIdleAnim1:grp_locAim_scarf_bn_spA01
+    100324: UlfarIdleAnim1:grp_locAim_scarf_bn_spB01
+    100326: UlfarIdleAnim1:grp_locAim_scarf_bn_spC01
+    100328: UlfarIdleAnim1:grp_locAim_scarf_bn_spD01
+    100330: UlfarIdleAnim1:HandShield
+    100332: UlfarIdleAnim1:Head
+    100334: UlfarIdleAnim1:jntDrv_scarf_A01
+    100336: UlfarIdleAnim1:jntDrv_scarf_spB01
+    100338: UlfarIdleAnim1:jntDrv_scarf_spC01
+    100340: UlfarIdleAnim1:jntDrv_scarf_spD01
+    100342: UlfarIdleAnim1:jntDrv_scarf_spE01
+    100344: UlfarIdleAnim1:joint3
+    100346: UlfarIdleAnim1:Joints01
+    100348: UlfarIdleAnim1:LegArmor
+    100350: UlfarIdleAnim1:LegArmorR
+    100352: UlfarIdleAnim1:locAim_scarf_bn_spB01
+    100354: UlfarIdleAnim1:locAim_scarf_bn_spC01
+    100356: UlfarIdleAnim1:locAim_scarf_bn_spD01
+    100358: UlfarIdleAnim1:locAim_scarf_bn_spD01 1
+    100360: UlfarIdleAnim1:locOri_cc_l_foot01
+    100362: UlfarIdleAnim1:locOri_cc_r_foot02
+    100364: UlfarIdleAnim1:locOri_l_wristCtrl01
+    100366: UlfarIdleAnim1:locOri_r_wristCtrl01
+    100368: UlfarIdleAnim1:LowerBody
+    100370: UlfarIdleAnim1:Model01
+    100372: UlfarIdleAnim1:Scarf
+    100374: UlfarIdleAnim1:WOLF
+    400000: Bars
+    400002: Gem
+    400004: Ring
+    400006: Shield1
+    400008: Shield2
+    400010: Shield3
+    400012: Shield4
+    400014: Shield5
+    400016: Shield6
+    400018: Sword1
+    400020: //RootNode
+    400022: UlfarIdleAnim1:ArmArmor
+    400024: UlfarIdleAnim1:be_cloth2_D01
+    400026: UlfarIdleAnim1:be_cloth_D01
+    400028: UlfarIdleAnim1:be_head01
+    400030: UlfarIdleAnim1:be_l_ind_d01
+    400032: UlfarIdleAnim1:be_l_mid_d01
+    400034: UlfarIdleAnim1:be_l_pink_d01
+    400036: UlfarIdleAnim1:be_l_ring_d01
+    400038: UlfarIdleAnim1:be_l_shld01
+    400040: UlfarIdleAnim1:be_l_thumb_d01
+    400042: UlfarIdleAnim1:be_l_toe01
+    400044: UlfarIdleAnim1:be_r_ind_d01
+    400046: UlfarIdleAnim1:be_r_mid_d01
+    400048: UlfarIdleAnim1:be_r_pink_d01
+    400050: UlfarIdleAnim1:be_r_ring_d01
+    400052: UlfarIdleAnim1:be_r_shld01
+    400054: UlfarIdleAnim1:be_r_thumb_d01
+    400056: UlfarIdleAnim1:be_r_toe01
+    400058: UlfarIdleAnim1:be_spE01
+    400060: UlfarIdleAnim1:be_sword_i01
+    400062: UlfarIdleAnim1:Beard
+    400064: UlfarIdleAnim1:belt
+    400066: UlfarIdleAnim1:bn_cloth2_A01
+    400068: UlfarIdleAnim1:bn_cloth2_B01
+    400070: UlfarIdleAnim1:bn_cloth2_C01
+    400072: UlfarIdleAnim1:bn_cloth_A01
+    400074: UlfarIdleAnim1:bn_cloth_B01
+    400076: UlfarIdleAnim1:bn_cloth_C01
+    400078: UlfarIdleAnim1:bn_head01
+    400080: UlfarIdleAnim1:bn_l_arm01
+    400082: UlfarIdleAnim1:bn_l_armTwist_a01
+    400084: UlfarIdleAnim1:bn_l_armTwist_b01
+    400086: UlfarIdleAnim1:bn_l_armTwist_c01
+    400088: UlfarIdleAnim1:bn_l_ball01
+    400090: UlfarIdleAnim1:bn_l_elbow_a01
+    400092: UlfarIdleAnim1:bn_l_elbow_b01
+    400094: UlfarIdleAnim1:bn_l_foot01
+    400096: UlfarIdleAnim1:bn_l_forearmTwist_a01
+    400098: UlfarIdleAnim1:bn_l_forearmTwist_b01
+    400100: UlfarIdleAnim1:bn_l_forearmTwist_c01
+    400102: UlfarIdleAnim1:bn_l_ind_a01
+    400104: UlfarIdleAnim1:bn_l_ind_b01
+    400106: UlfarIdleAnim1:bn_l_ind_c01
+    400108: UlfarIdleAnim1:bn_l_knee_a01
+    400110: UlfarIdleAnim1:bn_l_knee_b01
+    400112: UlfarIdleAnim1:bn_l_mid_a01
+    400114: UlfarIdleAnim1:bn_l_mid_b01
+    400116: UlfarIdleAnim1:bn_l_mid_c01
+    400118: UlfarIdleAnim1:bn_l_pink_a01
+    400120: UlfarIdleAnim1:bn_l_pink_b01
+    400122: UlfarIdleAnim1:bn_l_pink_c01
+    400124: UlfarIdleAnim1:bn_l_ring_a01
+    400126: UlfarIdleAnim1:bn_l_ring_b01
+    400128: UlfarIdleAnim1:bn_l_ring_c01
+    400130: UlfarIdleAnim1:bn_l_shld01
+    400132: UlfarIdleAnim1:bn_l_thigh_01
+    400134: UlfarIdleAnim1:bn_l_thumb_a01
+    400136: UlfarIdleAnim1:bn_l_thumb_b01
+    400138: UlfarIdleAnim1:bn_l_thumb_c01
+    400140: UlfarIdleAnim1:bn_l_wrist01
+    400142: UlfarIdleAnim1:bn_neck01
+    400144: UlfarIdleAnim1:bn_r_arm01
+    400146: UlfarIdleAnim1:bn_r_armTwist_a01
+    400148: UlfarIdleAnim1:bn_r_armTwist_b01
+    400150: UlfarIdleAnim1:bn_r_armTwist_c01
+    400152: UlfarIdleAnim1:bn_r_ball01
+    400154: UlfarIdleAnim1:bn_r_elbow_a01
+    400156: UlfarIdleAnim1:bn_r_elbow_b01
+    400158: UlfarIdleAnim1:bn_r_foot01
+    400160: UlfarIdleAnim1:bn_r_forearmTwist_a01
+    400162: UlfarIdleAnim1:bn_r_forearmTwist_b01
+    400164: UlfarIdleAnim1:bn_r_forearmTwist_c01
+    400166: UlfarIdleAnim1:bn_r_ind_a01
+    400168: UlfarIdleAnim1:bn_r_ind_b01
+    400170: UlfarIdleAnim1:bn_r_ind_c01
+    400172: UlfarIdleAnim1:bn_r_knee_a01
+    400174: UlfarIdleAnim1:bn_r_knee_b01
+    400176: UlfarIdleAnim1:bn_r_mid_a01
+    400178: UlfarIdleAnim1:bn_r_mid_b01
+    400180: UlfarIdleAnim1:bn_r_mid_c01
+    400182: UlfarIdleAnim1:bn_r_pink_a01
+    400184: UlfarIdleAnim1:bn_r_pink_b01
+    400186: UlfarIdleAnim1:bn_r_pink_c01
+    400188: UlfarIdleAnim1:bn_r_ring_a01
+    400190: UlfarIdleAnim1:bn_r_ring_b01
+    400192: UlfarIdleAnim1:bn_r_ring_c01
+    400194: UlfarIdleAnim1:bn_r_shld01
+    400196: UlfarIdleAnim1:bn_r_thigh_01
+    400198: UlfarIdleAnim1:bn_r_thumb_a01
+    400200: UlfarIdleAnim1:bn_r_thumb_b01
+    400202: UlfarIdleAnim1:bn_r_thumb_c01
+    400204: UlfarIdleAnim1:bn_r_wrist01
+    400206: UlfarIdleAnim1:bn_spA01
+    400208: UlfarIdleAnim1:bn_spB01
+    400210: UlfarIdleAnim1:bn_spC01
+    400212: UlfarIdleAnim1:bn_spD01
+    400214: UlfarIdleAnim1:bn_sword_a01
+    400216: UlfarIdleAnim1:bn_sword_b01
+    400218: UlfarIdleAnim1:bn_sword_c01
+    400220: UlfarIdleAnim1:bn_sword_d01
+    400222: UlfarIdleAnim1:bn_sword_e01
+    400224: UlfarIdleAnim1:bn_sword_f01
+    400226: UlfarIdleAnim1:bn_sword_g01
+    400228: UlfarIdleAnim1:bn_sword_h01
+    400230: UlfarIdleAnim1:BODY
+    400232: UlfarIdleAnim1:Body1
+    400234: UlfarIdleAnim1:cc_chest01
+    400236: UlfarIdleAnim1:cc_COG01
+    400238: UlfarIdleAnim1:cc_global01
+    400240: UlfarIdleAnim1:cc_head01
+    400242: UlfarIdleAnim1:cc_hip01
+    400244: UlfarIdleAnim1:cc_l_armPos01
+    400246: UlfarIdleAnim1:cc_l_armTwist01
+    400248: UlfarIdleAnim1:cc_l_ball01
+    400250: UlfarIdleAnim1:cc_l_ball02
+    400252: UlfarIdleAnim1:cc_l_bkLt_footPivot01
+    400254: UlfarIdleAnim1:cc_l_bkRt_footPivot01
+    400256: UlfarIdleAnim1:cc_l_elbow01
+    400258: UlfarIdleAnim1:cc_l_foot01
+    400260: UlfarIdleAnim1:cc_l_forearmTwist01
+    400262: UlfarIdleAnim1:cc_l_ftLt_footPivot01
+    400264: UlfarIdleAnim1:cc_l_ftRt_footPivot01
+    400266: UlfarIdleAnim1:cc_l_heel01
+    400268: UlfarIdleAnim1:cc_l_knee01
+    400270: UlfarIdleAnim1:cc_l_midLt_footPivot01
+    400272: UlfarIdleAnim1:cc_l_midRt_footPivot01
+    400274: UlfarIdleAnim1:cc_l_shld01
+    400276: UlfarIdleAnim1:cc_l_toe01
+    400278: UlfarIdleAnim1:cc_l_wristOri01
+    400280: UlfarIdleAnim1:cc_neck01
+    400282: UlfarIdleAnim1:cc_r_armPos01
+    400284: UlfarIdleAnim1:cc_r_armTwist01
+    400286: UlfarIdleAnim1:cc_r_bkLt_footPivot01
+    400288: UlfarIdleAnim1:cc_r_bkRt_footPivot01
+    400290: UlfarIdleAnim1:cc_r_elbow01
+    400292: UlfarIdleAnim1:cc_r_foot01
+    400294: UlfarIdleAnim1:cc_r_forearmTwist01
+    400296: UlfarIdleAnim1:cc_r_ftLt_footPivot01
+    400298: UlfarIdleAnim1:cc_r_ftRt_footPivot01
+    400300: UlfarIdleAnim1:cc_r_knee01
+    400302: UlfarIdleAnim1:cc_r_midLt_footPivot01
+    400304: UlfarIdleAnim1:cc_r_midRt_footPivot01
+    400306: UlfarIdleAnim1:cc_r_shld01
+    400308: UlfarIdleAnim1:cc_r_toe01
+    400310: UlfarIdleAnim1:cc_r_wristOri01
+    400312: UlfarIdleAnim1:ccl_r_heel01
+    400314: UlfarIdleAnim1:Cloth1
+    400316: UlfarIdleAnim1:Cloth2
+    400318: UlfarIdleAnim1:ControlObjects01
+    400320: UlfarIdleAnim1:GlobalMove01
+    400322: UlfarIdleAnim1:grp_locAim_scarf_bn_spA01
+    400324: UlfarIdleAnim1:grp_locAim_scarf_bn_spB01
+    400326: UlfarIdleAnim1:grp_locAim_scarf_bn_spC01
+    400328: UlfarIdleAnim1:grp_locAim_scarf_bn_spD01
+    400330: UlfarIdleAnim1:HandShield
+    400332: UlfarIdleAnim1:Head
+    400334: UlfarIdleAnim1:jntDrv_scarf_A01
+    400336: UlfarIdleAnim1:jntDrv_scarf_spB01
+    400338: UlfarIdleAnim1:jntDrv_scarf_spC01
+    400340: UlfarIdleAnim1:jntDrv_scarf_spD01
+    400342: UlfarIdleAnim1:jntDrv_scarf_spE01
+    400344: UlfarIdleAnim1:joint3
+    400346: UlfarIdleAnim1:Joints01
+    400348: UlfarIdleAnim1:LegArmor
+    400350: UlfarIdleAnim1:LegArmorR
+    400352: UlfarIdleAnim1:locAim_scarf_bn_spB01
+    400354: UlfarIdleAnim1:locAim_scarf_bn_spC01
+    400356: UlfarIdleAnim1:locAim_scarf_bn_spD01
+    400358: UlfarIdleAnim1:locAim_scarf_bn_spD01 1
+    400360: UlfarIdleAnim1:locOri_cc_l_foot01
+    400362: UlfarIdleAnim1:locOri_cc_r_foot02
+    400364: UlfarIdleAnim1:locOri_l_wristCtrl01
+    400366: UlfarIdleAnim1:locOri_r_wristCtrl01
+    400368: UlfarIdleAnim1:LowerBody
+    400370: UlfarIdleAnim1:Model01
+    400372: UlfarIdleAnim1:Scarf
+    400374: UlfarIdleAnim1:WOLF
+    4300000: UlfarIdleAnim1:Cloth1
+    4300002: UlfarIdleAnim1:Cloth2
+    4300004: UlfarIdleAnim1:LegArmor
+    4300006: UlfarIdleAnim1:LegArmorR
+    4300008: UlfarIdleAnim1:HandShield
+    4300010: UlfarIdleAnim1:LowerBody
+    4300012: UlfarIdleAnim1:belt
+    4300014: UlfarIdleAnim1:ArmArmor
+    4300016: UlfarIdleAnim1:Scarf
+    4300018: UlfarIdleAnim1:Beard
+    4300020: UlfarIdleAnim1:Head
+    4300022: UlfarIdleAnim1:Body1
+    4300024: Bars
+    4300026: Shield1
+    4300028: Shield2
+    4300030: Shield3
+    4300032: Shield4
+    4300034: Shield5
+    4300036: Gem
+    4300038: Ring
+    4300040: Sword1
+    4300042: UlfarIdleAnim1:WOLF
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Bars
+    13700002: Gem
+    13700004: Ring
+    13700006: Shield1
+    13700008: Shield2
+    13700010: Shield3
+    13700012: Shield4
+    13700014: Shield5
+    13700016: Sword1
+    13700018: UlfarIdleAnim1:ArmArmor
+    13700020: UlfarIdleAnim1:Beard
+    13700022: UlfarIdleAnim1:belt
+    13700024: UlfarIdleAnim1:Body1
+    13700026: UlfarIdleAnim1:Cloth1
+    13700028: UlfarIdleAnim1:Cloth2
+    13700030: UlfarIdleAnim1:HandShield
+    13700032: UlfarIdleAnim1:Head
+    13700034: UlfarIdleAnim1:LegArmor
+    13700036: UlfarIdleAnim1:LegArmorR
+    13700038: UlfarIdleAnim1:LowerBody
+    13700040: UlfarIdleAnim1:Scarf
+    13700042: UlfarIdleAnim1:WOLF
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: UlfarIdleAnim1:cc_global01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_COG01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_COG01/UlfarIdleAnim1:cc_chest01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_COG01/UlfarIdleAnim1:cc_chest01/UlfarIdleAnim1:cc_neck01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_COG01/UlfarIdleAnim1:cc_chest01/UlfarIdleAnim1:cc_neck01/UlfarIdleAnim1:cc_head01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_COG01/UlfarIdleAnim1:cc_hip01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_l_armPos01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_l_armPos01/UlfarIdleAnim1:locOri_l_wristCtrl01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_l_armPos01/UlfarIdleAnim1:locOri_l_wristCtrl01/UlfarIdleAnim1:cc_l_wristOri01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_l_elbow01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_l_knee01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_l_shld01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_r_armPos01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_r_armPos01/UlfarIdleAnim1:locOri_r_wristCtrl01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_r_armPos01/UlfarIdleAnim1:locOri_r_wristCtrl01/UlfarIdleAnim1:cc_r_wristOri01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_r_elbow01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_r_knee01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:cc_r_shld01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_l_foot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_l_foot01/UlfarIdleAnim1:cc_l_foot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_l_foot01/UlfarIdleAnim1:cc_l_foot01/UlfarIdleAnim1:cc_l_bkRt_footPivot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_l_foot01/UlfarIdleAnim1:cc_l_foot01/UlfarIdleAnim1:cc_l_bkRt_footPivot01/UlfarIdleAnim1:cc_l_midRt_footPivot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_l_foot01/UlfarIdleAnim1:cc_l_foot01/UlfarIdleAnim1:cc_l_bkRt_footPivot01/UlfarIdleAnim1:cc_l_midRt_footPivot01/UlfarIdleAnim1:cc_l_ftRt_footPivot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_l_foot01/UlfarIdleAnim1:cc_l_foot01/UlfarIdleAnim1:cc_l_bkRt_footPivot01/UlfarIdleAnim1:cc_l_midRt_footPivot01/UlfarIdleAnim1:cc_l_ftRt_footPivot01/UlfarIdleAnim1:cc_l_toe01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_l_foot01/UlfarIdleAnim1:cc_l_foot01/UlfarIdleAnim1:cc_l_bkRt_footPivot01/UlfarIdleAnim1:cc_l_midRt_footPivot01/UlfarIdleAnim1:cc_l_ftRt_footPivot01/UlfarIdleAnim1:cc_l_toe01/UlfarIdleAnim1:cc_l_ftLt_footPivot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_l_foot01/UlfarIdleAnim1:cc_l_foot01/UlfarIdleAnim1:cc_l_bkRt_footPivot01/UlfarIdleAnim1:cc_l_midRt_footPivot01/UlfarIdleAnim1:cc_l_ftRt_footPivot01/UlfarIdleAnim1:cc_l_toe01/UlfarIdleAnim1:cc_l_ftLt_footPivot01/UlfarIdleAnim1:cc_l_midLt_footPivot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_l_foot01/UlfarIdleAnim1:cc_l_foot01/UlfarIdleAnim1:cc_l_bkRt_footPivot01/UlfarIdleAnim1:cc_l_midRt_footPivot01/UlfarIdleAnim1:cc_l_ftRt_footPivot01/UlfarIdleAnim1:cc_l_toe01/UlfarIdleAnim1:cc_l_ftLt_footPivot01/UlfarIdleAnim1:cc_l_midLt_footPivot01/UlfarIdleAnim1:cc_l_bkLt_footPivot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_l_foot01/UlfarIdleAnim1:cc_l_foot01/UlfarIdleAnim1:cc_l_bkRt_footPivot01/UlfarIdleAnim1:cc_l_midRt_footPivot01/UlfarIdleAnim1:cc_l_ftRt_footPivot01/UlfarIdleAnim1:cc_l_toe01/UlfarIdleAnim1:cc_l_ftLt_footPivot01/UlfarIdleAnim1:cc_l_midLt_footPivot01/UlfarIdleAnim1:cc_l_bkLt_footPivot01/UlfarIdleAnim1:cc_l_heel01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_l_foot01/UlfarIdleAnim1:cc_l_foot01/UlfarIdleAnim1:cc_l_bkRt_footPivot01/UlfarIdleAnim1:cc_l_midRt_footPivot01/UlfarIdleAnim1:cc_l_ftRt_footPivot01/UlfarIdleAnim1:cc_l_toe01/UlfarIdleAnim1:cc_l_ftLt_footPivot01/UlfarIdleAnim1:cc_l_midLt_footPivot01/UlfarIdleAnim1:cc_l_bkLt_footPivot01/UlfarIdleAnim1:cc_l_heel01/UlfarIdleAnim1:cc_l_ball01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_r_foot02
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_r_foot02/UlfarIdleAnim1:cc_r_foot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_r_foot02/UlfarIdleAnim1:cc_r_foot01/UlfarIdleAnim1:cc_r_bkRt_footPivot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_r_foot02/UlfarIdleAnim1:cc_r_foot01/UlfarIdleAnim1:cc_r_bkRt_footPivot01/UlfarIdleAnim1:cc_r_midRt_footPivot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_r_foot02/UlfarIdleAnim1:cc_r_foot01/UlfarIdleAnim1:cc_r_bkRt_footPivot01/UlfarIdleAnim1:cc_r_midRt_footPivot01/UlfarIdleAnim1:cc_r_ftRt_footPivot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_r_foot02/UlfarIdleAnim1:cc_r_foot01/UlfarIdleAnim1:cc_r_bkRt_footPivot01/UlfarIdleAnim1:cc_r_midRt_footPivot01/UlfarIdleAnim1:cc_r_ftRt_footPivot01/UlfarIdleAnim1:cc_r_toe01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_r_foot02/UlfarIdleAnim1:cc_r_foot01/UlfarIdleAnim1:cc_r_bkRt_footPivot01/UlfarIdleAnim1:cc_r_midRt_footPivot01/UlfarIdleAnim1:cc_r_ftRt_footPivot01/UlfarIdleAnim1:cc_r_toe01/UlfarIdleAnim1:cc_r_ftLt_footPivot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_r_foot02/UlfarIdleAnim1:cc_r_foot01/UlfarIdleAnim1:cc_r_bkRt_footPivot01/UlfarIdleAnim1:cc_r_midRt_footPivot01/UlfarIdleAnim1:cc_r_ftRt_footPivot01/UlfarIdleAnim1:cc_r_toe01/UlfarIdleAnim1:cc_r_ftLt_footPivot01/UlfarIdleAnim1:cc_r_midLt_footPivot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_r_foot02/UlfarIdleAnim1:cc_r_foot01/UlfarIdleAnim1:cc_r_bkRt_footPivot01/UlfarIdleAnim1:cc_r_midRt_footPivot01/UlfarIdleAnim1:cc_r_ftRt_footPivot01/UlfarIdleAnim1:cc_r_toe01/UlfarIdleAnim1:cc_r_ftLt_footPivot01/UlfarIdleAnim1:cc_r_midLt_footPivot01/UlfarIdleAnim1:cc_r_bkLt_footPivot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_r_foot02/UlfarIdleAnim1:cc_r_foot01/UlfarIdleAnim1:cc_r_bkRt_footPivot01/UlfarIdleAnim1:cc_r_midRt_footPivot01/UlfarIdleAnim1:cc_r_ftRt_footPivot01/UlfarIdleAnim1:cc_r_toe01/UlfarIdleAnim1:cc_r_ftLt_footPivot01/UlfarIdleAnim1:cc_r_midLt_footPivot01/UlfarIdleAnim1:cc_r_bkLt_footPivot01/UlfarIdleAnim1:ccl_r_heel01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:ControlObjects01/UlfarIdleAnim1:locOri_cc_r_foot02/UlfarIdleAnim1:cc_r_foot01/UlfarIdleAnim1:cc_r_bkRt_footPivot01/UlfarIdleAnim1:cc_r_midRt_footPivot01/UlfarIdleAnim1:cc_r_ftRt_footPivot01/UlfarIdleAnim1:cc_r_toe01/UlfarIdleAnim1:cc_r_ftLt_footPivot01/UlfarIdleAnim1:cc_r_midLt_footPivot01/UlfarIdleAnim1:cc_r_bkLt_footPivot01/UlfarIdleAnim1:ccl_r_heel01/UlfarIdleAnim1:cc_l_ball02
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_cloth2_A01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_cloth2_A01/UlfarIdleAnim1:bn_cloth2_B01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_cloth2_A01/UlfarIdleAnim1:bn_cloth2_B01/UlfarIdleAnim1:bn_cloth2_C01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_cloth2_A01/UlfarIdleAnim1:bn_cloth2_B01/UlfarIdleAnim1:bn_cloth2_C01/UlfarIdleAnim1:be_cloth2_D01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_cloth_A01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_cloth_A01/UlfarIdleAnim1:bn_cloth_B01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_cloth_A01/UlfarIdleAnim1:bn_cloth_B01/UlfarIdleAnim1:bn_cloth_C01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_cloth_A01/UlfarIdleAnim1:bn_cloth_B01/UlfarIdleAnim1:bn_cloth_C01/UlfarIdleAnim1:be_cloth_D01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_l_thigh_01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_l_thigh_01/UlfarIdleAnim1:bn_l_knee_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_l_thigh_01/UlfarIdleAnim1:bn_l_knee_a01/UlfarIdleAnim1:bn_l_knee_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_l_thigh_01/UlfarIdleAnim1:bn_l_knee_a01/UlfarIdleAnim1:bn_l_knee_b01/UlfarIdleAnim1:bn_l_foot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_l_thigh_01/UlfarIdleAnim1:bn_l_knee_a01/UlfarIdleAnim1:bn_l_knee_b01/UlfarIdleAnim1:bn_l_foot01/UlfarIdleAnim1:bn_l_ball01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_l_thigh_01/UlfarIdleAnim1:bn_l_knee_a01/UlfarIdleAnim1:bn_l_knee_b01/UlfarIdleAnim1:bn_l_foot01/UlfarIdleAnim1:bn_l_ball01/UlfarIdleAnim1:be_l_toe01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_r_thigh_01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_r_thigh_01/UlfarIdleAnim1:bn_r_knee_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_r_thigh_01/UlfarIdleAnim1:bn_r_knee_a01/UlfarIdleAnim1:bn_r_knee_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_r_thigh_01/UlfarIdleAnim1:bn_r_knee_a01/UlfarIdleAnim1:bn_r_knee_b01/UlfarIdleAnim1:bn_r_foot01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_r_thigh_01/UlfarIdleAnim1:bn_r_knee_a01/UlfarIdleAnim1:bn_r_knee_b01/UlfarIdleAnim1:bn_r_foot01/UlfarIdleAnim1:bn_r_ball01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_r_thigh_01/UlfarIdleAnim1:bn_r_knee_a01/UlfarIdleAnim1:bn_r_knee_b01/UlfarIdleAnim1:bn_r_foot01/UlfarIdleAnim1:bn_r_ball01/UlfarIdleAnim1:be_r_toe01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:be_spE01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:be_spE01/UlfarIdleAnim1:bn_neck01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:be_spE01/UlfarIdleAnim1:bn_neck01/UlfarIdleAnim1:bn_head01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:be_spE01/UlfarIdleAnim1:bn_neck01/UlfarIdleAnim1:bn_head01/UlfarIdleAnim1:be_head01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_armTwist_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_armTwist_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_armTwist_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_forearmTwist_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_forearmTwist_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_forearmTwist_b01/UlfarIdleAnim1:joint3
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_forearmTwist_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_ind_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_ind_a01/UlfarIdleAnim1:bn_l_ind_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_ind_a01/UlfarIdleAnim1:bn_l_ind_b01/UlfarIdleAnim1:bn_l_ind_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_ind_a01/UlfarIdleAnim1:bn_l_ind_b01/UlfarIdleAnim1:bn_l_ind_c01/UlfarIdleAnim1:be_l_ind_d01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_mid_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_mid_a01/UlfarIdleAnim1:bn_l_mid_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_mid_a01/UlfarIdleAnim1:bn_l_mid_b01/UlfarIdleAnim1:bn_l_mid_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_mid_a01/UlfarIdleAnim1:bn_l_mid_b01/UlfarIdleAnim1:bn_l_mid_c01/UlfarIdleAnim1:be_l_mid_d01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_pink_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_pink_a01/UlfarIdleAnim1:bn_l_pink_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_pink_a01/UlfarIdleAnim1:bn_l_pink_b01/UlfarIdleAnim1:bn_l_pink_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_pink_a01/UlfarIdleAnim1:bn_l_pink_b01/UlfarIdleAnim1:bn_l_pink_c01/UlfarIdleAnim1:be_l_pink_d01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_ring_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_ring_a01/UlfarIdleAnim1:bn_l_ring_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_ring_a01/UlfarIdleAnim1:bn_l_ring_b01/UlfarIdleAnim1:bn_l_ring_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_ring_a01/UlfarIdleAnim1:bn_l_ring_b01/UlfarIdleAnim1:bn_l_ring_c01/UlfarIdleAnim1:be_l_ring_d01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_thumb_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_thumb_a01/UlfarIdleAnim1:bn_l_thumb_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_thumb_a01/UlfarIdleAnim1:bn_l_thumb_b01/UlfarIdleAnim1:bn_l_thumb_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:bn_l_wrist01/UlfarIdleAnim1:bn_l_thumb_a01/UlfarIdleAnim1:bn_l_thumb_b01/UlfarIdleAnim1:bn_l_thumb_c01/UlfarIdleAnim1:be_l_thumb_d01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:bn_l_elbow_a01/UlfarIdleAnim1:bn_l_elbow_b01/UlfarIdleAnim1:cc_l_forearmTwist01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_l_shld01/UlfarIdleAnim1:be_l_shld01/UlfarIdleAnim1:bn_l_arm01/UlfarIdleAnim1:cc_l_armTwist01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_armTwist_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_armTwist_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_armTwist_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_forearmTwist_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_forearmTwist_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_forearmTwist_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_ind_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_ind_a01/UlfarIdleAnim1:bn_r_ind_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_ind_a01/UlfarIdleAnim1:bn_r_ind_b01/UlfarIdleAnim1:bn_r_ind_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_ind_a01/UlfarIdleAnim1:bn_r_ind_b01/UlfarIdleAnim1:bn_r_ind_c01/UlfarIdleAnim1:be_r_ind_d01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_mid_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_mid_a01/UlfarIdleAnim1:bn_r_mid_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_mid_a01/UlfarIdleAnim1:bn_r_mid_b01/UlfarIdleAnim1:bn_r_mid_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_mid_a01/UlfarIdleAnim1:bn_r_mid_b01/UlfarIdleAnim1:bn_r_mid_c01/UlfarIdleAnim1:be_r_mid_d01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_pink_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_pink_a01/UlfarIdleAnim1:bn_r_pink_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_pink_a01/UlfarIdleAnim1:bn_r_pink_b01/UlfarIdleAnim1:bn_r_pink_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_pink_a01/UlfarIdleAnim1:bn_r_pink_b01/UlfarIdleAnim1:bn_r_pink_c01/UlfarIdleAnim1:be_r_pink_d01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_ring_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_ring_a01/UlfarIdleAnim1:bn_r_ring_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_ring_a01/UlfarIdleAnim1:bn_r_ring_b01/UlfarIdleAnim1:bn_r_ring_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_ring_a01/UlfarIdleAnim1:bn_r_ring_b01/UlfarIdleAnim1:bn_r_ring_c01/UlfarIdleAnim1:be_r_ring_d01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_thumb_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_thumb_a01/UlfarIdleAnim1:bn_r_thumb_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_thumb_a01/UlfarIdleAnim1:bn_r_thumb_b01/UlfarIdleAnim1:bn_r_thumb_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_r_thumb_a01/UlfarIdleAnim1:bn_r_thumb_b01/UlfarIdleAnim1:bn_r_thumb_c01/UlfarIdleAnim1:be_r_thumb_d01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_sword_b01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_sword_b01/UlfarIdleAnim1:bn_sword_a01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_sword_b01/UlfarIdleAnim1:bn_sword_c01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_sword_b01/UlfarIdleAnim1:bn_sword_c01/UlfarIdleAnim1:bn_sword_d01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_sword_b01/UlfarIdleAnim1:bn_sword_c01/UlfarIdleAnim1:bn_sword_d01/UlfarIdleAnim1:bn_sword_e01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_sword_b01/UlfarIdleAnim1:bn_sword_c01/UlfarIdleAnim1:bn_sword_d01/UlfarIdleAnim1:bn_sword_e01/UlfarIdleAnim1:bn_sword_f01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_sword_b01/UlfarIdleAnim1:bn_sword_c01/UlfarIdleAnim1:bn_sword_d01/UlfarIdleAnim1:bn_sword_e01/UlfarIdleAnim1:bn_sword_f01/UlfarIdleAnim1:bn_sword_g01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_sword_b01/UlfarIdleAnim1:bn_sword_c01/UlfarIdleAnim1:bn_sword_d01/UlfarIdleAnim1:bn_sword_e01/UlfarIdleAnim1:bn_sword_f01/UlfarIdleAnim1:bn_sword_g01/UlfarIdleAnim1:bn_sword_h01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:bn_r_wrist01/UlfarIdleAnim1:bn_sword_b01/UlfarIdleAnim1:bn_sword_c01/UlfarIdleAnim1:bn_sword_d01/UlfarIdleAnim1:bn_sword_e01/UlfarIdleAnim1:bn_sword_f01/UlfarIdleAnim1:bn_sword_g01/UlfarIdleAnim1:bn_sword_h01/UlfarIdleAnim1:be_sword_i01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:bn_r_elbow_a01/UlfarIdleAnim1:bn_r_elbow_b01/UlfarIdleAnim1:cc_r_forearmTwist01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:be_r_shld01/UlfarIdleAnim1:bn_r_arm01/UlfarIdleAnim1:cc_r_armTwist01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:jntDrv_scarf_A01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:jntDrv_scarf_A01/UlfarIdleAnim1:grp_locAim_scarf_bn_spA01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:jntDrv_scarf_A01/UlfarIdleAnim1:grp_locAim_scarf_bn_spA01/UlfarIdleAnim1:locAim_scarf_bn_spD01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:jntDrv_scarf_A01/UlfarIdleAnim1:jntDrv_scarf_spB01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:jntDrv_scarf_A01/UlfarIdleAnim1:jntDrv_scarf_spB01/UlfarIdleAnim1:grp_locAim_scarf_bn_spD01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:jntDrv_scarf_A01/UlfarIdleAnim1:jntDrv_scarf_spB01/UlfarIdleAnim1:grp_locAim_scarf_bn_spD01/UlfarIdleAnim1:locAim_scarf_bn_spB01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:jntDrv_scarf_A01/UlfarIdleAnim1:jntDrv_scarf_spB01/UlfarIdleAnim1:jntDrv_scarf_spC01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:jntDrv_scarf_A01/UlfarIdleAnim1:jntDrv_scarf_spB01/UlfarIdleAnim1:jntDrv_scarf_spC01/UlfarIdleAnim1:grp_locAim_scarf_bn_spC01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:jntDrv_scarf_A01/UlfarIdleAnim1:jntDrv_scarf_spB01/UlfarIdleAnim1:jntDrv_scarf_spC01/UlfarIdleAnim1:grp_locAim_scarf_bn_spC01/UlfarIdleAnim1:locAim_scarf_bn_spC01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:jntDrv_scarf_A01/UlfarIdleAnim1:jntDrv_scarf_spB01/UlfarIdleAnim1:jntDrv_scarf_spC01/UlfarIdleAnim1:jntDrv_scarf_spD01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:jntDrv_scarf_A01/UlfarIdleAnim1:jntDrv_scarf_spB01/UlfarIdleAnim1:jntDrv_scarf_spC01/UlfarIdleAnim1:jntDrv_scarf_spD01/UlfarIdleAnim1:grp_locAim_scarf_bn_spB01
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:jntDrv_scarf_A01/UlfarIdleAnim1:jntDrv_scarf_spB01/UlfarIdleAnim1:jntDrv_scarf_spC01/UlfarIdleAnim1:jntDrv_scarf_spD01/UlfarIdleAnim1:grp_locAim_scarf_bn_spB01/UlfarIdleAnim1:locAim_scarf_bn_spD01
+          1
+        weight: 1
+      - path: UlfarIdleAnim1:GlobalMove01/UlfarIdleAnim1:Joints01/UlfarIdleAnim1:bn_spA01/UlfarIdleAnim1:bn_spB01/UlfarIdleAnim1:bn_spC01/UlfarIdleAnim1:bn_spD01/UlfarIdleAnim1:bn_r_shld01/UlfarIdleAnim1:jntDrv_scarf_A01/UlfarIdleAnim1:jntDrv_scarf_spB01/UlfarIdleAnim1:jntDrv_scarf_spC01/UlfarIdleAnim1:jntDrv_scarf_spD01/UlfarIdleAnim1:jntDrv_scarf_spE01
+        weight: 1
+      - path: UlfarIdleAnim1:Model01
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/Shield6
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/Shield6/Bars
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/Shield6/Gem
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/Shield6/Ring
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/Shield6/Shield1
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/Shield6/Shield2
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/Shield6/Shield3
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/Shield6/Shield4
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/Shield6/Shield5
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/Sword1
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/UlfarIdleAnim1:ArmArmor
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/UlfarIdleAnim1:Beard
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/UlfarIdleAnim1:belt
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/UlfarIdleAnim1:Body1
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/UlfarIdleAnim1:Cloth1
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/UlfarIdleAnim1:Cloth2
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/UlfarIdleAnim1:HandShield
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/UlfarIdleAnim1:Head
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/UlfarIdleAnim1:LegArmor
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/UlfarIdleAnim1:LegArmorR
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/UlfarIdleAnim1:LowerBody
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:BODY/UlfarIdleAnim1:Scarf
+        weight: 1
+      - path: UlfarIdleAnim1:Model01/UlfarIdleAnim1:WOLF
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 101100000, guid: b8d84afbcd518d348a2923ced9abdf1c, type: 2}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: UlfarIdleAnim1:bn_spA01
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_thigh_01
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_thigh_01
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_knee_b01
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_knee_b01
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_foot01
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_foot01
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_spB01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_spC01
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_neck01
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_head01
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_shld01
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_shld01
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_arm01
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_arm01
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_elbow_b01
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_elbow_b01
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_wrist01
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_wrist01
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_ball01
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_ball01
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_thumb_a01
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_thumb_b01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_thumb_c01
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_ind_a01
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_ind_b01
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_ind_c01
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_mid_a01
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_mid_b01
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_mid_c01
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_ring_a01
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_ring_b01
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_ring_c01
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_pink_a01
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_pink_b01
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_l_pink_c01
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_thumb_a01
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_thumb_b01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_thumb_c01
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_ind_a01
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_ind_b01
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_ind_c01
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_mid_a01
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_mid_b01
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_mid_c01
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_ring_a01
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_ring_b01
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_ring_c01
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_pink_a01
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_pink_b01
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UlfarIdleAnim1:bn_r_pink_c01
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: UlfarFn(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_global01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 6.12323426e-17, y: 1, z: -6.12323426e-17, w: -6.12323426e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:GlobalMove01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 6.12323426e-17, y: 1, z: -6.12323426e-17, w: -6.12323426e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:ControlObjects01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_COG01
+      position: {x: -5.551115e-19, y: .0438880324, z: .00146452524}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .759684861, y: .759684861, z: .759684861}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_chest01
+      position: {x: -3.6366032e-18, y: .0491334088, z: -4.04843076e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.31633532, y: 1.31633532, z: 1.31633532}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_neck01
+      position: {x: -1.92481661e-18, y: .0211105719, z: .0105157746}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_head01
+      position: {x: 1.92481661e-18, y: -.00202126149, z: -.0221656226}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_hip01
+      position: {x: -0, y: 7.82728438e-10, z: -1.00416439e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.20977402, y: 2.22115088, z: 3.26699042}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_armPos01
+      position: {x: .0371045545, y: .0429935157, z: .00726989983}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:locOri_l_wristCtrl01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: .424007624, y: .608007252, z: -.45417285, w: .494238526}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_wristOri01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_elbow01
+      position: {x: .0348519273, y: .0662576929, z: .0395543799}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_knee01
+      position: {x: .0131802736, y: .0454334803, z: -.0456384011}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_shld01
+      position: {x: .00970632676, y: .0869009867, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_armPos01
+      position: {x: -.0363488011, y: .0426928997, z: .00726989983}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:locOri_r_wristCtrl01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -.424007773, y: .608006775, z: -.45417276, w: -.494239092}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_wristOri01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_elbow01
+      position: {x: -.0359620787, y: .0661064908, z: .0353800915}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_knee01
+      position: {x: -.0131802736, y: .0454334803, z: -.0456384011}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_shld01
+      position: {x: -.00970632676, y: .0869009867, z: -9.50628468e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:locOri_cc_l_foot01
+      position: {x: .0147121344, y: .00310014747, z: .00523952348}
+      rotation: {x: 7.50325144e-17, y: .965695083, z: -7.50325144e-17, w: .259678841}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_foot01
+      position: {x: .000200999231, y: .000861841661, z: .00102205481}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_bkRt_footPivot01
+      position: {x: .00190596085, y: -.00324507477, z: -.000828886463}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_midRt_footPivot01
+      position: {x: .0006039812, y: -.000320202322, z: .0033448711}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_ftRt_footPivot01
+      position: {x: 7.76995075e-05, y: -.000376124633, z: .00294510811}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_toe01
+      position: {x: -.00221200194, y: -.000264762552, z: .00295733404}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_ftLt_footPivot01
+      position: {x: -.00305469753, y: 0, z: -.00273005571}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_midLt_footPivot01
+      position: {x: -.000201290037, y: .000549884688, z: -.00299618486}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_bkLt_footPivot01
+      position: {x: -4.4744178e-05, y: .000355374097, z: -.00315002026}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_heel01
+      position: {x: .00238188356, y: 0, z: -.00195039716}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_ball01
+      position: {x: .000259071996, y: 8.76862323e-05, z: .00415244792}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .0700000003, y: .0700000003, z: .0700000003}
+      transformModified: 1
+    - name: UlfarIdleAnim1:locOri_cc_r_foot02
+      position: {x: -.0147121344, y: .00310014747, z: .00523952348}
+      rotation: {x: 4.3231033e-17, y: .965695083, z: -4.3231033e-17, w: -.259678721}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_foot01
+      position: {x: -.000200999057, y: .000861841661, z: .00102205493}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_bkRt_footPivot01
+      position: {x: .00292509212, y: -.00330090546, z: -.000457834103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_midRt_footPivot01
+      position: {x: -4.47436505e-05, y: -.000355374097, z: .00315002026}
+      rotation: {x: 0, y: 5.55111512e-17, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_ftRt_footPivot01
+      position: {x: -.000201289542, y: -.000549884688, z: .00299618486}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_toe01
+      position: {x: -.00305469707, y: -1.110223e-18, z: .00273005618}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_ftLt_footPivot01
+      position: {x: -.00221200241, y: .000264762552, z: -.00295733381}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_midLt_footPivot01
+      position: {x: 7.76990128e-05, y: .000376124633, z: -.00294510811}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_bkLt_footPivot01
+      position: {x: .000603980618, y: .000320202322, z: -.0033448711}
+      rotation: {x: 0, y: -5.55111512e-17, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:ccl_r_heel01
+      position: {x: .00244916906, y: -5.58307329e-05, z: -.00157934474}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_ball02
+      position: {x: -.000256915664, y: 7.87941317e-05, z: .00415220158}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:Joints01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_spA01
+      position: {x: -5.60991772e-19, y: .0438880324, z: .00146452524}
+      rotation: {x: .505019009, y: -.494930118, z: -.505019009, w: .494930118}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_cloth_A01
+      position: {x: .00456921803, y: -.00833411887, z: .00199670438}
+      rotation: {x: .543751538, y: -.455264091, z: -.540781915, w: -.452353776}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_cloth_B01
+      position: {x: -.000730869768, y: -.00823889486, z: -1.3877787e-18}
+      rotation: {x: -.67514348, y: .737686515, z: -8.65108895e-17, w: -3.82965681e-18}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_cloth_C01
+      position: {x: .00821840949, y: -.000595645222, z: 5.551115e-19}
+      rotation: {x: 0, y: -0, z: -.0361673348, w: .999345779}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_cloth_D01
+      position: {x: .0106358789, y: .000227161625, z: 1.24900085e-18}
+      rotation: {x: 0, y: 0, z: .0106771989, w: .999943018}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_cloth2_A01
+      position: {x: .00456068944, y: -.00826107617, z: -.00216689007}
+      rotation: {x: -.5382967, y: .450224906, z: .545930088, w: .457705796}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_cloth2_B01
+      position: {x: .000797312416, y: -.00770735368, z: 6.93889349e-19}
+      rotation: {x: 0, y: -0, z: -.669739068, w: .742596507}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_cloth2_C01
+      position: {x: .00857574865, y: .000248407276, z: -5.551115e-19}
+      rotation: {x: 0, y: 0, z: .0144785717, w: .999895215}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_cloth2_D01
+      position: {x: .0103401877, y: -.000367914123, z: -2.7755575e-19}
+      rotation: {x: 0, y: 0, z: -.0177820586, w: .999841928}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_spB01
+      position: {x: -.0124419695, y: -1.52655665e-18, z: 8.28801638e-18}
+      rotation: {x: 1.50539163e-15, y: 0, z: .00756523153, w: .99997139}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_spC01
+      position: {x: -.0124419695, y: -8.3266725e-19, z: 4.9597886e-18}
+      rotation: {x: 1.49208083e-15, y: -4.62276157e-33, z: -.0151306093, w: .999885559}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_spD01
+      position: {x: -.0124419695, y: 4.37150296e-17, z: 6.08841285e-18}
+      rotation: {x: 1.53143716e-15, y: 6.17003981e-33, z: .0478378125, w: .998855114}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_spE01
+      position: {x: -.0124419695, y: -1.22124532e-17, z: 2.48740572e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_neck01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: .20843178, w: .97803688}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_head01
+      position: {x: -.00678446377, y: 2.220446e-18, z: 3.69778541e-34}
+      rotation: {x: -3.33066907e-16, y: -1.67227354e-15, z: .163426027, w: .986555576}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_head01
+      position: {x: -.0182349794, y: 0, z: -9.7921827e-19}
+      rotation: {x: 0, y: 0, z: 1.71153886e-06, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_shld01
+      position: {x: -.00568705564, y: -.00146452524, z: .00970632955}
+      rotation: {x: -.60989809, y: -.408027619, z: -.419197977, w: .534612834}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_r_shld01
+      position: {x: .0137760406, y: -1.37204177e-08, z: 5.00950108e-08}
+      rotation: {x: -.00217371294, y: .0011144001, z: -.0215811115, w: .999764144}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_arm01
+      position: {x: -1.11022296e-17, y: 1.7763568e-17, z: 2.7755575e-19}
+      rotation: {x: -.309461236, y: .0677386075, z: -.102693558, w: .942920566}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_armTwist01
+      position: {x: .0135365957, y: -.000114006158, z: -7.14402995e-05}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_armTwist_c01
+      position: {x: .0201149881, y: -.000169377861, z: -.000106136256}
+      rotation: {x: -.0354895592, y: .00278760912, z: -.00411528861, w: .9993577}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_armTwist_b01
+      position: {x: .0135365687, y: -.000114031645, z: -7.14501948e-05}
+      rotation: {x: -.0354895592, y: .00278760912, z: -.00411528861, w: .9993577}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_armTwist_a01
+      position: {x: -2.18267022e-08, y: -1.18038015e-08, z: -2.71160383e-09}
+      rotation: {x: -.186129764, y: .415943205, z: -.348704427, w: .818994641}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_elbow_a01
+      position: {x: .0221219994, y: -4.67036854e-09, z: 7.4421691e-09}
+      rotation: {x: -.0512909517, y: -.0624156632, z: -.149671152, w: .985429943}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_elbow_b01
+      position: {x: .00236936542, y: 6.20909546e-08, z: 4.54606521e-08}
+      rotation: {x: .287996262, y: .145051584, z: .165848583, w: .931940138}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_r_forearmTwist01
+      position: {x: .0103449104, y: -.000551301579, z: -.000177776208}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_wrist01
+      position: {x: .0171231348, y: 1.04859637e-07, z: -2.95610665e-08}
+      rotation: {x: .254006177, y: -.0488951094, z: .0625894368, w: .963936031}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_ind_a01
+      position: {x: .0126510775, y: -.00116901856, z: -.00388451479}
+      rotation: {x: -.018332934, y: .073928453, z: .0461316556, w: .99602735}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_ind_b01
+      position: {x: .00278179999, y: 9.40883425e-08, z: -2.6026397e-08}
+      rotation: {x: -.0108452598, y: -.00712952623, z: -.00673267432, w: .999893129}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_ind_c01
+      position: {x: .00239016418, y: .0002002361, z: -3.32083546e-05}
+      rotation: {x: .0461513624, y: .00571008213, z: .0236360393, w: .998638511}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_r_ind_d01
+      position: {x: .00332563277, y: .000365242042, z: -5.14678395e-05}
+      rotation: {x: .00787121337, y: .0216084868, z: .0562920347, w: .998149455}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_mid_a01
+      position: {x: .0132035548, y: -5.92544675e-05, z: -.00032068236}
+      rotation: {x: -.0875183344, y: .0103677521, z: .0877332911, w: .992237806}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_mid_b01
+      position: {x: .0022810786, y: -3.44401342e-05, z: -2.0939975e-05}
+      rotation: {x: .0367580503, y: .00194693031, z: -.0657515377, w: .997156918}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_mid_c01
+      position: {x: .00277249026, y: .000487443758, z: -9.43780542e-05}
+      rotation: {x: .0341164432, y: .0170774143, z: .0746276975, w: .996481419}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_r_mid_d01
+      position: {x: .00299698673, y: .000306457863, z: -2.52818409e-05}
+      rotation: {x: .0513931103, y: .0319621414, z: .0540147536, w: .9967044}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_ring_a01
+      position: {x: .0130174374, y: .00222782674, z: .00276758196}
+      rotation: {x: -.407540351, y: -.0320332274, z: .153067559, w: .899697185}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_ring_b01
+      position: {x: .00167195068, y: -.000195657165, z: -.000217264387}
+      rotation: {x: .0654092208, y: .0540850461, z: -.043385312, w: .995446682}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_ring_c01
+      position: {x: .00264676707, y: 9.06942587e-05, z: 4.34213462e-06}
+      rotation: {x: .100140281, y: .0101233637, z: .0142279165, w: .994820178}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_r_ring_d01
+      position: {x: .0021405525, y: -9.93962312e-05, z: -9.60313264e-05}
+      rotation: {x: -.00344957598, y: .025310142, z: .0443598665, w: .998688996}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_pink_a01
+      position: {x: .0108332485, y: .00400678115, z: .0048141568}
+      rotation: {x: -.434520364, y: -.0123617724, z: -.0331174098, w: .899968028}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_pink_b01
+      position: {x: .00193438341, y: .000355334079, z: .000124878672}
+      rotation: {x: .0993391052, y: -.0098482389, z: .0996450856, w: .990002871}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_pink_c01
+      position: {x: .00141277444, y: -.000103103535, z: 1.54608188e-05}
+      rotation: {x: .050021261, y: -.00112334464, z: -.0246357061, w: .998443663}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_r_pink_d01
+      position: {x: .00229067728, y: 8.62740708e-05, z: -4.43727549e-05}
+      rotation: {x: .0241216645, y: .0573532954, z: .14527975, w: .987432301}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_thumb_a01
+      position: {x: .00332826097, y: .000236891035, z: -.00270913588}
+      rotation: {x: -.44057256, y: .377762049, z: .0963426381, w: .808646977}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_thumb_b01
+      position: {x: .00359458546, y: .000218661517, z: 3.27153975e-05}
+      rotation: {x: .173489124, y: -.00976304803, z: .00243422738, w: .984784424}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_thumb_c01
+      position: {x: .00440073851, y: 8.10452261e-10, z: -1.0772947e-09}
+      rotation: {x: .00023722199, y: -.00946858153, z: .00238328543, w: .999952316}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_r_thumb_d01
+      position: {x: .00333391246, y: -2.24743635e-05, z: .000185553887}
+      rotation: {x: .00361861358, y: -.15898481, z: -.0206274241, w: .987058878}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_sword_b01
+      position: {x: .0100595718, y: .00311206211, z: -.00222278899}
+      rotation: {x: .341854692, y: -.330830723, z: .720898271, w: .503976285}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_sword_c01
+      position: {x: -.015125514, y: -2.72734014e-05, z: -.000746236008}
+      rotation: {x: -.0179864801, y: -.0913563669, z: -.000534022925, w: .995655715}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_sword_d01
+      position: {x: -.0108853886, y: -4.04652346e-05, z: .00149909675}
+      rotation: {x: .0134470994, y: .0682363436, z: .000711658329, w: .997578323}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_sword_e01
+      position: {x: -.0135226948, y: -8.60422851e-18, z: .000269999669}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_sword_f01
+      position: {x: -.0141114816, y: -2.18919216e-09, z: 2.77832668e-09}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_sword_g01
+      position: {x: -.0156352818, y: -1.55708562e-07, z: .000305972499}
+      rotation: {x: .000253352831, y: .00128083176, z: -4.1858284e-06, w: .999999166}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_sword_h01
+      position: {x: -.0136755882, y: 3.92833817e-06, z: .000253926002}
+      rotation: {x: -.00771050388, y: -.0390147902, z: -.000162263546, w: .999208868}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_sword_i01
+      position: {x: -.00906820316, y: -5.27353768e-06, z: .000782143325}
+      rotation: {x: -1.38905227e-06, y: 1.42386966e-06, z: 6.05484274e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_sword_a01
+      position: {x: .0102203572, y: -4.440892e-18, z: -8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_forearmTwist_c01
+      position: {x: .0171231348, y: 1.04859637e-07, z: -2.95610665e-08}
+      rotation: {x: -.0352135748, y: -.0749109015, z: .0471658371, w: .99545157}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_forearmTwist_b01
+      position: {x: .0103640938, y: 8.12357248e-05, z: -.000217615889}
+      rotation: {x: -.0313238949, y: .008105129, z: -.0153712798, w: .999358237}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_forearmTwist_a01
+      position: {x: .00322735053, y: 6.54799442e-06, z: -9.0214904e-05}
+      rotation: {x: -.0313238949, y: .008105129, z: -.0153712798, w: .999358237}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:jntDrv_scarf_A01
+      position: {x: .00564044295, y: -.00345413107, z: .0160126593}
+      rotation: {x: -.269420594, y: .698485613, z: -.518622577, w: .41299051}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:grp_locAim_scarf_bn_spA01
+      position: {x: -.00611429894, y: -.0190416649, z: -.000174098066}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:locAim_scarf_bn_spD01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:jntDrv_scarf_spB01
+      position: {x: -.0212157797, y: -.00073661207, z: -.000582593493}
+      rotation: {x: -.00270232093, y: .00193541904, z: -.132316291, w: .991201997}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:grp_locAim_scarf_bn_spD01
+      position: {x: -.000904705666, y: -.019977361, z: -.000294181198}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:locAim_scarf_bn_spB01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:jntDrv_scarf_spC01
+      position: {x: -.0243528076, y: -.00159208523, z: -.000740389281}
+      rotation: {x: -.000722333323, y: -.00065540697, z: .12542066, w: .992103159}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:grp_locAim_scarf_bn_spC01
+      position: {x: -.0058481656, y: -.0191232227, z: -.00031818854}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:locAim_scarf_bn_spC01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:jntDrv_scarf_spD01
+      position: {x: -.0173925404, y: 8.8091052e-05, z: -.000535232248}
+      rotation: {x: .0012360377, y: -.00434383191, z: .0896260962, w: .995965242}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:grp_locAim_scarf_bn_spB01
+      position: {x: -.00919860229, y: -.0177645031, z: .000358243386}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:locAim_scarf_bn_spD01 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:jntDrv_scarf_spE01
+      position: {x: -.0125920987, y: -.000224192088, z: -.000286107592}
+      rotation: {x: 0, y: 0, z: -.00785390101, w: .999969184}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_shld01
+      position: {x: -.00568703981, y: -.00146452524, z: -.00970632676}
+      rotation: {x: -.408027679, y: .609897971, z: -.534612834, w: -.419198126}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_l_shld01
+      position: {x: -.0137760052, y: 8.73259864e-09, z: -5.49418644e-08}
+      rotation: {x: -.00217371294, y: .0011144001, z: -.0215811115, w: .999764144}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_arm01
+      position: {x: -1.11022296e-17, y: -1.7763568e-17, z: 2.7755575e-19}
+      rotation: {x: -.341706395, y: .0710170865, z: -.100187331, w: .931748807}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_armTwist01
+      position: {x: -.0135372747, y: -4.07956762e-08, z: 4.5597023e-08}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_elbow_a01
+      position: {x: -.0221220125, y: -1.6653345e-18, z: 7.77156121e-18}
+      rotation: {x: -.0513868183, y: -.0617350638, z: -.148695678, w: .985615432}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_elbow_b01
+      position: {x: -.00236939336, y: 1.66533444e-17, z: -5.62050408e-18}
+      rotation: {x: .287983477, y: .145168722, z: .16599673, w: .931899488}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:cc_l_forearmTwist01
+      position: {x: -.010398048, y: -2.681894e-08, z: -1.73066006e-08}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_wrist01
+      position: {x: -.0171230882, y: -9.61079465e-08, z: 3.03781462e-08}
+      rotation: {x: .284278572, y: -.0547328778, z: .077894941, w: .954003334}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_ind_a01
+      position: {x: -.0126510598, y: .00116892823, z: .00388453086}
+      rotation: {x: -.018333558, y: .0739379227, z: .0461472981, w: .99602592}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_ind_b01
+      position: {x: -.00278183608, y: 4.440892e-18, z: 2.7755575e-19}
+      rotation: {x: -.0108450521, y: -.00713509182, z: -.00676112296, w: .99989295}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_ind_c01
+      position: {x: -.00239013764, y: -.000200291572, z: 3.32221935e-05}
+      rotation: {x: .0461512096, y: .00571219856, z: .0236467049, w: .998638213}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_l_ind_d01
+      position: {x: -.00332570192, y: -.000365258136, z: 5.14674066e-05}
+      rotation: {x: .00787121337, y: .0216084868, z: .0562920347, w: .998149455}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_mid_a01
+      position: {x: -.0132035464, y: 5.92069737e-05, z: .0003206908}
+      rotation: {x: -.0875180364, y: .0103681227, z: .0877462626, w: .992236793}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_mid_b01
+      position: {x: -.00228109863, y: 3.44857071e-05, z: 2.09438804e-05}
+      rotation: {x: .0367575139, y: .00194862089, z: -.0657643974, w: .997156084}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_mid_c01
+      position: {x: -.00277252868, y: -.000487474143, z: 9.43670311e-05}
+      rotation: {x: .034116663, y: .0170759037, z: .0746261552, w: .996481597}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_l_mid_d01
+      position: {x: -.00299701327, y: -.000306498638, z: 2.5290492e-05}
+      rotation: {x: .0513931103, y: .0319621414, z: .0540147536, w: .9967044}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_ring_a01
+      position: {x: -.0130174346, y: -.00222784956, z: -.00276758848}
+      rotation: {x: -.407544434, y: -.0320476592, z: .153073177, w: .899693906}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_ring_b01
+      position: {x: -.00167194218, y: .000195635614, z: .000217324457}
+      rotation: {x: .0654094964, y: .0541067198, z: -.0433812812, w: .995445669}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_ring_c01
+      position: {x: -.00264677429, y: -9.06919595e-05, z: -4.39926498e-06}
+      rotation: {x: .100140437, y: .0101154782, z: .0142330248, w: .994820118}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_l_ring_d01
+      position: {x: -.00214060745, y: 9.94130023e-05, z: 9.60284888e-05}
+      rotation: {x: -.00344957598, y: .025310142, z: .0443598665, w: .998688996}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_pink_a01
+      position: {x: -.010833242, y: -.00400683098, z: -.00481414748}
+      rotation: {x: -.434519827, y: -.0123628825, z: -.0331093036, w: .899968684}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_pink_b01
+      position: {x: -.00193438318, y: -.000355331809, z: -.000124877246}
+      rotation: {x: .0993349999, y: -.00983314496, z: .0996473283, w: .990003228}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_pink_c01
+      position: {x: -.00141277432, y: .000103128259, z: -1.55038833e-05}
+      rotation: {x: .0500195026, y: -.00115223136, z: -.0246383119, w: .998443663}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_l_pink_d01
+      position: {x: -.00229069474, y: -8.62308661e-05, z: 4.44527577e-05}
+      rotation: {x: .0241216645, y: .0573532954, z: .14527975, w: .987432301}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_thumb_a01
+      position: {x: -.00332829636, y: -.000236907654, z: .00270914286}
+      rotation: {x: -.440045446, y: .377598137, z: .0974377245, w: .808879256}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_thumb_b01
+      position: {x: -.00359455822, y: -.000218682748, z: -3.26964473e-05}
+      rotation: {x: .173489884, y: -.00975954626, z: .00243680971, w: .984784305}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_thumb_c01
+      position: {x: -.00440073991, y: -4.440892e-18, z: 4.440892e-18}
+      rotation: {x: .000237319764, y: -.00946585089, z: .00238425075, w: .999952376}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_l_thumb_d01
+      position: {x: -.00333398324, y: 2.24904707e-05, z: -.000185578625}
+      rotation: {x: .00361861358, y: -.15898481, z: -.0206274241, w: .987058878}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_forearmTwist_c01
+      position: {x: -.0171230882, y: -4.41643522e-08, z: -2.84998158e-08}
+      rotation: {x: -.00324354088, y: -.0849504098, z: .0598065741, w: .994583368}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_forearmTwist_b01
+      position: {x: -.010398048, y: -2.681894e-08, z: -1.73066006e-08}
+      rotation: {x: -3.25654628e-06, y: -8.32208514e-07, z: 1.28961142e-06, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:joint3
+      position: {x: -.00215965603, y: .0124233915, z: .00611103419}
+      rotation: {x: .19265978, y: .0816217735, z: -.57102561, w: .793819785}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_forearmTwist_a01
+      position: {x: -.00326599553, y: -8.42374792e-09, z: -5.43595124e-09}
+      rotation: {x: -3.25654628e-06, y: -8.32208514e-07, z: 1.28961142e-06, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_armTwist_a01
+      position: {x: 1.7763568e-17, y: 8.881784e-18, z: -4.440892e-18}
+      rotation: {x: -.157683477, y: .425004303, z: -.330864817, w: .827668846}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_armTwist_b01
+      position: {x: -.0135372747, y: -4.07956762e-08, z: 4.5597023e-08}
+      rotation: {x: 2.23624056e-06, y: 1.68413203e-06, z: 1.5067867e-06, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_armTwist_c01
+      position: {x: -.0201159716, y: -6.06211117e-08, z: 6.77557637e-08}
+      rotation: {x: 2.23624056e-06, y: 1.68413203e-06, z: 1.5067867e-06, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_thigh_01
+      position: {x: .000132435263, y: 4.68056927e-09, z: .00691085961}
+      rotation: {x: -.0847604498, y: -.000467040663, z: .0111535285, w: .996338844}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_knee_a01
+      position: {x: .0234294999, y: -.000128475906, z: .00476466399}
+      rotation: {x: .0947000384, y: -.0910261497, z: .0534775592, w: .989892066}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_knee_b01
+      position: {x: .00255334703, y: -1.91963565e-08, z: 6.68467095e-08}
+      rotation: {x: -.00915911607, y: -.00175555865, z: .0292962175, w: .999527276}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_foot01
+      position: {x: .0152153904, y: 3.37225323e-08, z: -1.82786025e-07}
+      rotation: {x: -.0419436954, y: -.0741664171, z: -.468561828, w: .879312158}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_r_ball01
+      position: {x: .00363153568, y: -1.42475045e-08, z: -3.53046055e-08}
+      rotation: {x: -.170185789, y: -.0260582864, z: -.294874907, w: .93989712}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_r_toe01
+      position: {x: .00494664907, y: .000421217585, z: -.000308300339}
+      rotation: {x: .00132309389, y: .0243963283, z: -.0541375801, w: .99823457}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_thigh_01
+      position: {x: .000132415938, y: 6.37479908e-17, z: -.0069108638}
+      rotation: {x: .000559509092, y: -.0847572535, z: .9963395, w: -.0111165065}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_knee_a01
+      position: {x: -.0234295242, y: .000128479776, z: -.00476470124}
+      rotation: {x: .0946742222, y: -.0910019428, z: .0537084825, w: .989884257}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_knee_b01
+      position: {x: -.00255329837, y: 1.1546831e-08, z: 1.25027686e-08}
+      rotation: {x: -.0091595687, y: -.00174610852, z: .0294139571, w: .999523818}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_foot01
+      position: {x: -.0152154313, y: -2.93763254e-08, z: 1.12803235e-07}
+      rotation: {x: -.044823952, y: -.0731092915, z: -.469864637, w: .878563106}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:bn_l_ball01
+      position: {x: -.00363154919, y: 1.96944097e-08, z: 2.40638975e-08}
+      rotation: {x: -.170185775, y: -.0260582082, z: -.294874877, w: .93989712}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:be_l_toe01
+      position: {x: -.0049466202, y: -.000421221135, z: .00030834222}
+      rotation: {x: .00132309389, y: .0243963283, z: -.0541375801, w: .99823457}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:Model01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:BODY
+      position: {x: -0, y: -.00244119996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shield6
+      position: {x: -.0729039386, y: .0541247278, z: -.00755612133}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bars
+      position: {x: .0729039386, y: -.0516835265, z: .00755612133}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Gem
+      position: {x: .0729039386, y: -.0516835265, z: .00755612133}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ring
+      position: {x: .0729039386, y: -.0516835265, z: .00755612133}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shield1
+      position: {x: .0729039386, y: -.0516835265, z: .00755612133}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shield2
+      position: {x: .0729039386, y: -.0516835265, z: .00755612133}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shield3
+      position: {x: .0729039386, y: -.0516835265, z: .00755612133}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shield4
+      position: {x: .0729039386, y: -.0516835265, z: .00755612133}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shield5
+      position: {x: .0729039386, y: -.0516835265, z: .00755612133}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Sword1
+      position: {x: .00548161147, y: .00293142255, z: .00570610212}
+      rotation: {x: .0432676673, y: -0, z: -0, w: .999063551}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:ArmArmor
+      position: {x: -0, y: .00244119996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:Beard
+      position: {x: -0, y: .00244119996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:belt
+      position: {x: -0, y: .00244119996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:Body1
+      position: {x: -0, y: .00244119996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:Cloth1
+      position: {x: -0, y: .00244119996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:Cloth2
+      position: {x: -0, y: .00244119996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:HandShield
+      position: {x: -0, y: .00244119996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:Head
+      position: {x: -0, y: .00244119996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:LegArmor
+      position: {x: -0, y: .00244119996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:LegArmorR
+      position: {x: -0, y: .00244119996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:LowerBody
+      position: {x: -0, y: .00244119996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:Scarf
+      position: {x: -0, y: .00244119996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UlfarIdleAnim1:WOLF
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
