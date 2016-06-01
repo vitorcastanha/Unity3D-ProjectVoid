@@ -8,7 +8,7 @@ using System.Collections;
 [RequireComponent (typeof(Rigidbody))]
 [RequireComponent (typeof(CapsuleCollider))]
 [RequireComponent (typeof(PlayerCombat))]
-
+//
 public class Player : MonoBehaviour {
 
     /*
